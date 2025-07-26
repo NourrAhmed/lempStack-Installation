@@ -22,6 +22,7 @@
 3. **Run the Installer**  
    ```bash
    ./lempStack-Installation.sh
+**Make sure you have sudo privileges on your system.** 
 
 ## **License**
 This project is licensed under the MIT License – free to use, modify, and distribute.
