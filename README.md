@@ -16,3 +16,11 @@
    ```bash
    git clone https://github.com/NourrAhmed/lempStack-Installation.git
    cd lempStack-Installation
+2. **Make the Script Executable**  
+   ```bash
+   chmod +x lempStack-Installation.sh
+3. **Run the Installer**  
+   ```bash
+   ./lempStack-Installation.sh
+
+   
